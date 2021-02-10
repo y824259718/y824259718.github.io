@@ -110,7 +110,7 @@ pre {
     content: " ";
     position: absolute;
     border-radius: 50%;
-    background: #ff5f56;
+    background: #e9e9e9;
     width: 12px;
     height: 12px;
     top: 0;
@@ -388,7 +388,7 @@ header .side-nav .social-link {
 
 .cover-btns a:hover {
     border: 1px solid #f44336;
-    background-color: #f44336;
+    background-color: #e0e0e0;
     box-shadow: 0 14px 26px -12px rgba(233, 30, 99, 0.42),
     0 4px 23px 0 rgba(0, 0, 0, 0.12),
     0 8px 10px -5px rgba(233, 30, 99, 0.2);
@@ -593,7 +593,7 @@ header .go-back i {
     font-weight: 400;
 }
 
-@-webkit-keyframes rainbow {
+/**@-webkit-keyframes rainbow {
 
     0%,
     100% {
@@ -684,7 +684,7 @@ header .go-back i {
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
 }
-
+**/
 .index-card {
     margin-top: -10px;
     padding-top: 20px;
